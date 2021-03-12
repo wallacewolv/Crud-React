@@ -5,4 +5,14 @@ footer.footer {
   padding: 0 25px;
   background-color: #FFF;
   box-shadow: var(--shadow);
+  font-weight: 500;
+}
+
+footer.footer a {
+  color: #000;
+}
+
+footer.footer a:hover  {
+  color: #101c5f;
+  text-decoration: none;
 }
