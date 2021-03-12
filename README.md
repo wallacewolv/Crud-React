@@ -1,5 +1,5 @@
 # CRUD
-Aplicação para manipulação de dados com uso de Front-end em ReactJs, Bootstrap e uso de API com Back-end em Nodejs
+Aplicação para manipulação de dados com uso de Front-end em ReactJs, Bootstrap e API com Back-end em NodeJs
 
 ## Project setup
 ```

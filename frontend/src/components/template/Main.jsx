@@ -6,7 +6,7 @@ import '../../styles/template/Main.css'
 export default props => 
   <React.Fragment>
     <Header {...props} />
-    <main className="content">
+    <main className="content ">
       Conteúdo
     </main>
   </React.Fragment>
